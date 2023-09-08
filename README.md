@@ -70,7 +70,7 @@ from mmcv.parallel import MMDistributedDataParallel
   |프레임|원본 30fps에서 10fps로 추출하여 라벨링 및 학습 실행, 총 1627프레임 사용|
 
 ### 4. Folders
-
+- data는 Data.md에서 다운로드 가능
 ```
 ├── data
 │   ├── Annotations
